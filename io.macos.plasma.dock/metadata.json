@@ -1,0 +1,16 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "io.macos.plasma.dock",
+        "Name": "macOS Dock",
+        "Description": "A macOS-style icon dock with magnification",
+        "Icon": "user-desktop",
+        "Version": "1.1",
+        "Website": "",
+        "Authors": [],
+        "License": "GPL-2.0-or-later",
+        "Category": "Windows and Tasks"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

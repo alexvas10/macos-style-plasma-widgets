@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "macos-plasma"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "macOS-style date and time display with calendar popup.",
+        "Icon": "clock",
+        "Id": "io.macos.plasma.datetime",
+        "License": "GPL-3.0+",
+        "Name": "macOS Date & Time",
+        "Version": "1.0.0",
+        "Website": ""
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

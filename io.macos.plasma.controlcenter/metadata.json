@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "macos-plasma"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "macOS-style Control Center with WiFi, volume, and brightness controls.",
+        "Icon": "preferences-system",
+        "Id": "io.macos.plasma.controlcenter",
+        "License": "GPL-3.0+",
+        "Name": "macOS Control Center",
+        "Version": "1.0.0",
+        "Website": ""
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

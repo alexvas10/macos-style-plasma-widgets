@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "macos-plasma"
+            }
+        ],
+        "Category": "Windows and Tasks",
+        "Description": "macOS-style global menu bar that shows the active application's menus in the top panel. Supports Qt, GTK2/3, Electron, and Flatpak apps.",
+        "Icon": "application-menu",
+        "Id": "io.macos.plasma.globalmenu",
+        "License": "GPL-3.0+",
+        "Name": "macOS Global Menu",
+        "Version": "1.0.0",
+        "Website": ""
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
